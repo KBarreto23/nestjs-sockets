@@ -1,0 +1,16 @@
+{
+  "name": "expresssocket",
+  "version": "1.0.0",
+  "description": "socketIo",
+  "main": "index.js",
+  "author": "kbarreto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
